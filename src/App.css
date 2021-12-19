@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color:rgb(20, 193, 245);
+  height: 85vh;
+  border-style: solid;
+  border-color: blue;
+  margin: 50px;
+  border-radius: 20px;
+}
+
+h1{
+  padding: 40px;
+}
+
+

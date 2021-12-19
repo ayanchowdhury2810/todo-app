@@ -1,0 +1,32 @@
+.points{
+    background-color: rgb(255, 255, 101);
+    margin-top: 20px;
+    padding: 10px;
+    border-color: green;
+    border-style: solid;
+    overflow: scroll;
+    max-height: 200px;
+    overflow-x: hidden;
+    text-align: left;
+    box-shadow: 10px 4px 14px -5px rgba(0,0,0,0.75);
+}
+
+form{
+    background-color: rgb(140, 212, 240);
+    width: 300px;
+    height: 50px;
+    margin-left: 50px;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 10px;
+    position: relative;
+    right: 30px;
+    display: inline-block
+}
+
+input{
+    border: none;
+    max-width: 150px;
+    margin-right: 10px;
+}
